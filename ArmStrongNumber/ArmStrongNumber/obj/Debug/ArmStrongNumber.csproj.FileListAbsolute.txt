@@ -1,0 +1,8 @@
+C:\Users\w127376\Desktop\.Net\ArmStrongNumber\ArmStrongNumber\bin\Debug\ArmStrongNumber.exe.config
+C:\Users\w127376\Desktop\.Net\ArmStrongNumber\ArmStrongNumber\bin\Debug\ArmStrongNumber.exe
+C:\Users\w127376\Desktop\.Net\ArmStrongNumber\ArmStrongNumber\bin\Debug\ArmStrongNumber.pdb
+C:\Users\w127376\Desktop\.Net\ArmStrongNumber\ArmStrongNumber\obj\Debug\ArmStrongNumber.csproj.AssemblyReference.cache
+C:\Users\w127376\Desktop\.Net\ArmStrongNumber\ArmStrongNumber\obj\Debug\ArmStrongNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\w127376\Desktop\.Net\ArmStrongNumber\ArmStrongNumber\obj\Debug\ArmStrongNumber.csproj.CoreCompileInputs.cache
+C:\Users\w127376\Desktop\.Net\ArmStrongNumber\ArmStrongNumber\obj\Debug\ArmStrongNumber.exe
+C:\Users\w127376\Desktop\.Net\ArmStrongNumber\ArmStrongNumber\obj\Debug\ArmStrongNumber.pdb
