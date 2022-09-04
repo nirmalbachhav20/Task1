@@ -1,0 +1,11 @@
+C:\Users\w127376\Desktop\.Net\PasswordLibrary\PassApp\bin\Debug\PassApp.exe.config
+C:\Users\w127376\Desktop\.Net\PasswordLibrary\PassApp\bin\Debug\PassApp.exe
+C:\Users\w127376\Desktop\.Net\PasswordLibrary\PassApp\bin\Debug\PassApp.pdb
+C:\Users\w127376\Desktop\.Net\PasswordLibrary\PassApp\bin\Debug\PasswordLibrary.dll
+C:\Users\w127376\Desktop\.Net\PasswordLibrary\PassApp\bin\Debug\PasswordLibrary.pdb
+C:\Users\w127376\Desktop\.Net\PasswordLibrary\PassApp\obj\Debug\PassApp.csproj.AssemblyReference.cache
+C:\Users\w127376\Desktop\.Net\PasswordLibrary\PassApp\obj\Debug\PassApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\w127376\Desktop\.Net\PasswordLibrary\PassApp\obj\Debug\PassApp.csproj.CoreCompileInputs.cache
+C:\Users\w127376\Desktop\.Net\PasswordLibrary\PassApp\obj\Debug\PassApp.csproj.CopyComplete
+C:\Users\w127376\Desktop\.Net\PasswordLibrary\PassApp\obj\Debug\PassApp.exe
+C:\Users\w127376\Desktop\.Net\PasswordLibrary\PassApp\obj\Debug\PassApp.pdb
