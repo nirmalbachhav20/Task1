@@ -1,0 +1,6 @@
+C:\Users\w127376\Desktop\.Net\BankingLibrary\BankingLibrary\bin\Debug\BankingLibrary.dll
+C:\Users\w127376\Desktop\.Net\BankingLibrary\BankingLibrary\bin\Debug\BankingLibrary.pdb
+C:\Users\w127376\Desktop\.Net\BankingLibrary\BankingLibrary\obj\Debug\BankingLibrary.csproj.AssemblyReference.cache
+C:\Users\w127376\Desktop\.Net\BankingLibrary\BankingLibrary\obj\Debug\BankingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\w127376\Desktop\.Net\BankingLibrary\BankingLibrary\obj\Debug\BankingLibrary.dll
+C:\Users\w127376\Desktop\.Net\BankingLibrary\BankingLibrary\obj\Debug\BankingLibrary.pdb

@@ -1,0 +1,11 @@
+C:\Users\w127376\Desktop\.Net\BankingLibrary\ICICIApp\bin\Debug\ICICIApp.exe.config
+C:\Users\w127376\Desktop\.Net\BankingLibrary\ICICIApp\bin\Debug\ICICIApp.exe
+C:\Users\w127376\Desktop\.Net\BankingLibrary\ICICIApp\bin\Debug\ICICIApp.pdb
+C:\Users\w127376\Desktop\.Net\BankingLibrary\ICICIApp\bin\Debug\BankingLibrary.dll
+C:\Users\w127376\Desktop\.Net\BankingLibrary\ICICIApp\bin\Debug\BankingLibrary.pdb
+C:\Users\w127376\Desktop\.Net\BankingLibrary\ICICIApp\obj\Debug\ICICIApp.csproj.AssemblyReference.cache
+C:\Users\w127376\Desktop\.Net\BankingLibrary\ICICIApp\obj\Debug\ICICIApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\w127376\Desktop\.Net\BankingLibrary\ICICIApp\obj\Debug\ICICIApp.csproj.CoreCompileInputs.cache
+C:\Users\w127376\Desktop\.Net\BankingLibrary\ICICIApp\obj\Debug\ICICIApp.csproj.CopyComplete
+C:\Users\w127376\Desktop\.Net\BankingLibrary\ICICIApp\obj\Debug\ICICIApp.exe
+C:\Users\w127376\Desktop\.Net\BankingLibrary\ICICIApp\obj\Debug\ICICIApp.pdb
